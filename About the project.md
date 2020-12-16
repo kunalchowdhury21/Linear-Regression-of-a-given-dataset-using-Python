@@ -12,6 +12,7 @@ The stepwise analysis of my project-
   c. Visualising the training set results.
   d. Visualising the test set results.
   e. Predicting the result(Salary) of ____(input) year(s) of expirience.
-  d. Predicting the test set rseults.
+  f. Predicting the training set results.
+  g. Predicting the test set rseults.
  3. Then we have finally predicted the errors along with accuracy.
 
